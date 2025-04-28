@@ -8,6 +8,9 @@ Un chatbot qui répond aux questions basé sur un document PDF, utilisant:
 - **ChromaDB** comme base vectorielle
 
 ## 🚀 Installation
+
+Add you api key : HUGGINGFACEHUB_API_TOKEN="votre_token"
+
 1. Cloner le dépôt
    ```bash
    git clone https://github.com/votre-user/streamlit-rag-chatbot.git
